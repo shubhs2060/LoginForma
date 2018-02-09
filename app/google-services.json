@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806684678015",
+    "firebase_url": "https://loginform-ebd1f.firebaseio.com",
+    "project_id": "loginform-ebd1f",
+    "storage_bucket": "loginform-ebd1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806684678015:android:a05962aba1cd0c11",
+        "android_client_info": {
+          "package_name": "com.example.rubyeffect.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806684678015-d931dsbf6nuc943s465cui6v90eil6u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rubyeffect.loginform",
+            "certificate_hash": "aea5c80779fafee600f666e7ce70b0041b940ea9"
+          }
+        },
+        {
+          "client_id": "806684678015-setf9udm2mhtuahohkuu8g85uppl76dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVoxwhemkUhyRsfKWh3zXErgqWPDQH_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806684678015-setf9udm2mhtuahohkuu8g85uppl76dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
